@@ -1,6 +1,11 @@
 # Project Files
 csv/is_prime/output.csv
 
+
+# IDE
+.idea
+.git
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
