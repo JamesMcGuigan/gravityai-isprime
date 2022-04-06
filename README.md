@@ -1,8 +1,18 @@
 # gravityai-isprime
 Prime Number Testing for Gravity AI
+- https://www.gravity-ai.com/dashboard/project-version/0b14440f-761a-436b-8fe9-f04f487cd6ae/b5552f48-e594-4b84-a1e4-28d23a913d50
 
 ## CLI Interface
+
+Setup
 ``` 
+pip-compile -v
+pip3 install -r requirements.txt
+python3 -m pytest -v .
+```
+
+Runtime
+```
 ./gravity_is_prime.py.py run ./csv/is_prime/input.csv ./csv/is_prime/output.csv 
 ```
 
