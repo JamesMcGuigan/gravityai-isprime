@@ -1,0 +1,7 @@
+pip-tools
+gravityai
+
+pandas
+sympy
+
+pytest
