@@ -1,5 +1,5 @@
 # Project Files
-tests/csv/output.csv
+csv/is_prime/output.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
